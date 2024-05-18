@@ -1,6 +1,6 @@
 # IKN-Rainfall-Forecasting
 Meramalkan curah hujan Ibu Kota Nusantara (IKN) yang merupakan salah satu permasalahan dari Lomba Data Quest Airnology 2.0 
-Data berukuran 341.881 baris dan 20 kolom dengan variabel bebas yang terdapat pada Data yang diberikan di lomba ada 19, yaitu : 
+Data memiliki dimensi 20 dengan variabel bebas yang terdapat pada Data yang diberikan di lomba ada 19, yaitu : 
 - datetime
 - datetime_iso
 - time_zone
@@ -16,11 +16,13 @@ Data berukuran 341.881 baris dan 20 kolom dengan variabel bebas yang terdapat pa
 - hum
 - wind_spd
 - wind_deg
-- rain_1h
 - rain_3h
 - snow_1h
 - snow_3h
 - clouds
+
+dan variabel target/terikatnya adalah
+- rain_1h
 
 ### Deskripsi data:
 
