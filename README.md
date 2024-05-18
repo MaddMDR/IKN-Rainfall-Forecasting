@@ -44,3 +44,7 @@ rain_3h : Curah hujan dalam 3 jam terakhir dalam mm.
 snow_1h : Curah salju dalam 1 jam terakhir dalam mm.
 snow_3h : Curah salju dalam 3 jam terakhir dalam mm.
 clouds : Persentase penutupan awan saat ini.
+
+
+Untuk tautan Kaggle yang digunakan dari Panitia adalah
+https://www.kaggle.com/competitions/tahap-penyisihan-oq-dataquestua/overview
